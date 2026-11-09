@@ -8,7 +8,10 @@ Installers for REZO, an anime zombie survival game you can play alone or online 
 
 1. Run the file you downloaded.
 2. Windows may say "Windows protected your PC", because the game isn't code-signed. Click **More info**, then **Run anyway**.
-3. Your antivirus may react for the same reason. Only let it through if you trust whoever sent you here.
+3. Choose where to put the game. It always gets a folder of its own, so choosing `D:\Games` puts it in `D:\Games\REZO`.
+4. Your antivirus may react because the game isn't code-signed. Only let it through if you trust whoever sent you here.
+
+To move the game later, run the installer again and choose another folder.
 
 ## Updates
 
